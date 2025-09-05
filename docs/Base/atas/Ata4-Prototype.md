@@ -1,7 +1,7 @@
 # Ata da Quarta Reunião – Design Sprint
 
 **Data:** 04/09/2025  
-**Horário:** 19h00 - 21h30  
+**Horário:** 20h00 - 21h30  
 **Local:** Reunião Online  
 **Participantes:**
 <br>
