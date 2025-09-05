@@ -58,4 +58,4 @@ Durante a reunião, a equipe focou nas seguintes atividades:
 # Histórico de Versões
 | Versão | Data       | Descrição                              | Autor(es)  | Revisor(es) |
 | ------ | ---------- | -------------------------------------- | ---------- | ----------- |
-| 1.0    | 04/09/2025 | Criação e desenvolvimento do documento | Bruno Cruz |             |
+| 1.0    | 04/09/2025 | Criação e desenvolvimento do documento | Bruno Cruz | Anne de Capdeville      |
